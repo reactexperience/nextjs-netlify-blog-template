@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
+            I-MASK Blog<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <span className="handle">@rendy__novianto, @rohsyamsdk_, @shofiialifah</span>
+          <h2>Sebuah blog untuk project I-MASK.</h2>
           <SocialList />
         </div>
       </div>
