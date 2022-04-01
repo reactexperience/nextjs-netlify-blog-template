@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            I-MASK Blog<span className="fancy">.</span>
+            ICLIMASK Blog<span className="fancy">.</span>
           </h1>
-          <span className="handle">@rendy__novianto, @rohsyamsdk_, @shofiialifah</span>
-          <h2>Sebuah blog untuk project I-MASK.</h2>
+          <span className="handle">@rendy__novianto, @rohsyamsdk_, @shofiialifah, @khadijah.nh, @krisantidiaz</span>
+          <h2>Inovasi limbah masker medis menjadi cenderamata bernilai ekonomis.</h2>
           <SocialList />
         </div>
       </div>
