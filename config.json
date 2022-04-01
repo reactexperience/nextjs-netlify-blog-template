@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "I-MASK Blog",
-  "site_description": "Sebuah blog untuk project I-MASK",
+  "base_url": "https://iclimask.netlify.app/",
+  "site_title": "ICLIMASK Blog",
+  "site_description": "Inovasi limbah masker medis menjadi cenderamata bernilai ekonomis.",
   "site_keywords": [
     {
       "keyword": "Next.js"
