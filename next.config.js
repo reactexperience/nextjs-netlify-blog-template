@@ -7,12 +7,13 @@ module.exports = ({
           test: /\.yml$/,
           type: "json",
           use: "yaml-loader",
+          target: "serverless",
         },
         {
           test: /\.svg$/,
           use: "@svgr/webpack",
         },
-        target: 'serverless',
+        
       ]
     );
     return config;
