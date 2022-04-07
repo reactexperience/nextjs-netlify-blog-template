@@ -12,6 +12,7 @@ module.exports = ({
           test: /\.svg$/,
           use: "@svgr/webpack",
         },
+        target: 'serverless',
       ]
     );
     return config;
