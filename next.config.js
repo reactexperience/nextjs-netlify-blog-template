@@ -7,7 +7,6 @@ module.exports = ({
           test: /\.yml$/,
           type: "json",
           use: "yaml-loader",
-          target: "serverless",
         },
         {
           test: /\.svg$/,
